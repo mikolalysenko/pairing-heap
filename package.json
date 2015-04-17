@@ -1,0 +1,33 @@
+{
+  "name": "pairing-heap",
+  "version": "1.0.0",
+  "description": "A pairing heap",
+  "main": "heap.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikolalysenko/pairing-heap.git"
+  },
+  "keywords": [
+    "pairing",
+    "heap",
+    "data",
+    "structure"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/pairing-heap/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/pairing-heap"
+}
